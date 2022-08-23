@@ -1,0 +1,2 @@
+1) external son dos archivos distintos
+2) interna se escribe el css

@@ -1,0 +1,33 @@
+h1 {
+    color:grey;
+    font-size: 30px;
+}
+
+body {
+    margin-left: 20px;
+}
+
+/* llamar a una clase*/
+
+.titular {
+    color:rgb(19, 88, 145);
+    font-size: 25px;
+}
+
+/*llamar a un ID*/
+#titular_3{
+    color: rgba(42, 165, 81, 0.584);
+}
+
+.borde {
+   border:rgb(19, 88, 145);
+   border-radius: 10px solid white;
+   
+}
+
+
+
+.titular:hover {
+    color: darkblue;
+
+}
