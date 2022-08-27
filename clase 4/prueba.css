@@ -31,3 +31,41 @@ body {
     color: darkblue;
 
 }
+
+header{
+    display: block;
+}
+
+.main_header
+{
+    max-width: 2000px;
+    position:fixed;
+    width: 100%;
+    background-color: #7ee69a35;
+    background-attachment: fixed;
+    flex-wrap: wrap;
+    margin-bottom: 200px;
+    
+}
+nav > ul > li {
+    float: left;
+}
+
+nav li {
+    line-height: 1.5rem;
+    position: relative;
+}
+nav a {
+    color: black;
+    display: block;
+    padding: 0 6rem;
+    transition: .7s;
+    font-size: medium;
+    font-family: 'Bebas Neue', cursive;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    padding-left: 15px;
+}
